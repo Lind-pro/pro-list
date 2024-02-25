@@ -1,7 +1,7 @@
 {
   "name": "@jetlinks/pro-list",
-  "version": "1.10.8",
-  "description": "🏆 Use Ant Design List like a Pro!",
+  "version": "1.10.9",
+  "description": "pro-list",
   "keywords": [
     "antd",
     "admin",
@@ -10,8 +10,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ant-design/pro-components"
+    "url": "https://github.com/Lind-pro/pro-list.git"
   },
+  "homepage": "https://github.com/Lind-pro/pro-list#readme",
   "license": "MIT",
   "sideEffects": [
     "*.less"
@@ -51,7 +52,7 @@
     "access": "public"
   },
   "authors": {
-    "name": "chenshuai2144",
-    "email": "qixian.cs@outlook.com"
+    "name": "Lind",
+    "email": "448929489@qq.com"
   }
 }
